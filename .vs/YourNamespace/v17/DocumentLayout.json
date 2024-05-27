@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\migrations\\20240523193214_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\migrations\\20240523193214_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\yournamespace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\yournamespace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\cars\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\cars\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|c:\\users\\saife\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\yournamespace\\yournamespace\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AE46660-0E76-4986-A172-DBD996628AB9}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523122652_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523110205_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Data\\Migrations\\20240523103602_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523131558_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YourNamespace.csproj",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\YourNamespace.csproj",
+              "RelativeDocumentMoniker": "YourNamespace\\YourNamespace.csproj",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\YourNamespace.csproj",
+              "RelativeToolTip": "YourNamespace\\YourNamespace.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T18:53:59.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Models\\Order.cs",
+              "RelativeToolTip": "YourNamespace\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:12:25.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "YourNamespace\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:46:35.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240523193214_init.cs",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Migrations\\20240523193214_init.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\Migrations\\20240523193214_init.cs",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Migrations\\20240523193214_init.cs",
+              "RelativeToolTip": "YourNamespace\\Migrations\\20240523193214_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:32:14.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "YourNamespace\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:10:04.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Models\\Car.cs",
+              "RelativeToolTip": "YourNamespace\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:47:42.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Program.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\Program.cs",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Program.cs",
+              "RelativeToolTip": "YourNamespace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:09:09.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "YourNamespace\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "YourNamespace\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T19:45:32.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "YourNamespace\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:14:59.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\appsettings.json",
+              "RelativeDocumentMoniker": "YourNamespace\\appsettings.json",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\appsettings.json",
+              "RelativeToolTip": "YourNamespace\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T10:56:23.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Order.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Cars\\Order.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Order.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Cars\\Order.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:24:17.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "YourNamespace\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:38:22.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Cars\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Cars\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:17:19.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:40:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Edit.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Cars\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Edit.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Cars\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:45:51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Details.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Cars\\Details.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Details.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Cars\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:40:46.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Delete.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Cars\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Cars\\Delete.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Cars\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:46:19.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "YourNamespace\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:08:52.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240523131558_init.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523131558_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523131558_init.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523131558_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523131558_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:15:58.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "YourNamespace\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "YourNamespace\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAEU2AAAAAAAAAAAiwGI2AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-23T13:24:50.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:38:34.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:38:35.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240523122652_init.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523122652_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523122652_init.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523122652_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523122652_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:26:53.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:41:23.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:41:58.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "YourNamespace\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\saife\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\YourNamespace\\YourNamespace\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "YourNamespace\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwCYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:09:56.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240523110205_init.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523110205_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523110205_init.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523110205_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Migrations\\20240523110205_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:02:05.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240523103602_init.cs",
+              "DocumentMoniker": "C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Data\\Migrations\\20240523103602_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Data\\Migrations\\20240523103602_init.cs",
+              "ToolTip": "C:\\Users\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Data\\Migrations\\20240523103602_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Yura\\Desktop\\goolden\\YourNamespace\\YourNamespace\\Data\\Migrations\\20240523103602_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:36:02.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

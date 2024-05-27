@@ -1,0 +1,24 @@
+﻿@model YourNamespace.Models.Order
+
+<h1>Create Order</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="CarId" class="control-label"></label>
+        <select asp-for="CarId" class="form-control" asp-items="ViewBag.CarId"></select>
+        <span asp-validation-for="CarId" class="text-danger"></span>
+    </div>
+    
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+<a asp-action="Index">Back to List</a>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
